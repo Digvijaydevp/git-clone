@@ -163,10 +163,6 @@ Contributors: when changing internals, update this section to reflect new file f
 
 Contributions are welcome. Please fork the repo, make your changes on a branch, and open a pull request with a clear description of the change.
 
-## License
-
-Add your chosen license here (e.g., MIT). If the project already has a LICENSE file, keep that.
-
 ## Notes
 
 -   The implementation uses helper files such as `strict_fstream.hpp` and `zstr.hpp` for zlib-based compression and stream utilities.
